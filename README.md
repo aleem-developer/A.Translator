@@ -1,6 +1,6 @@
 # A.Translator by Aleem.Developer
 
-**A.Translator** is a powerful Python-based desktop application that translates entire PDF files into **100+ languages** using the Google Translate API. Designed for simplicity and performance, it features a clean GUI, animated splash screen, real-time progress bar, and smartly formatted DOCX export.
+**A.Translator** is a powerful Python-based desktop application that translates entire PDF files into **30+ languages** using the Google Translate API. Designed for simplicity and performance, it features a clean GUI, animated splash screen, real-time progress bar, and smartly formatted DOCX export.
 
 ## 🌟 Key Features
 
@@ -14,9 +14,7 @@
 
 ## 📸 Screenshots
 
-*(Upload your screenshots here and embed them like this)*  
-`![Splash Screen](images/splash.png)`  
-`![Main App UI](images/main_ui.png)`
+![A.Translator Screenshot](A.Translator.PNG)
 
 ## 🚀 Why I Built This
 
