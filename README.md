@@ -1,26 +1,49 @@
 # A.Translator by Aleem.Developer
 
-**A.Translator** is a powerful Python-based desktop application that translates entire PDF files into **30+ languages** using the Google Translate API. Designed for simplicity and performance, it features a clean GUI, animated splash screen, real-time progress bar, and smartly formatted DOCX export.
+> 👋 Developed by [**Aleem.Developer**](https://www.linkedin.com/in/aleem-developer) — also known as **Muhammad Aleem**, a passionate Python programmer, prompt engineer, and data science student at the **University of Central Punjab (UCP)**.  
+> I specialize in building AI-powered desktop tools, and **A.Translator** is one of my flagship projects — built from scratch using Python and real-world design principles.
+
+---
+
+**A.Translator** is a powerful Python-based desktop application that translates entire PDF files into **100+ languages** using the Google Translate API.  
+It features a modern GUI, animated splash screen, real-time translation progress bar, and smartly formatted DOCX export.
+
+This is a real, production-level tool built with multithreading support, RTL formatting for languages like Urdu and Arabic, and bundled as a `.exe` with custom branding.
+
+---
 
 ## 🌟 Key Features
 
-- 🌐 Translate PDFs into 100+ languages
-- 🖥️ Modern GUI with splash screen and animated progress bar
-- 📄 Exports output as DOCX with proper formatting
-- 🕌 Supports RTL languages like Urdu, Arabic, and Hebrew
-- ⚡ Fast translation with multithreaded performance
-- 📦 `.exe` build with custom icon and installer (via PyInstaller)
+- 🌐 Translate entire PDFs into 100+ languages
+- 🖥️ Professional GUI with splash screen and animated progress bar
+- 📄 Export results as clean, formatted DOCX files
+- 🕌 Right-to-left support for Urdu, Arabic, Hebrew (RTL)
+- ⚡ Fast and multithreaded performance (great for large files)
+- 📦 Bundled `.exe` with installer and custom icon
 - 🧠 Built using Python, pdfplumber, ttkbootstrap, docx, and deep_translator
 
-## 📸 Screenshots
+---
+
+## 📸 Screenshot
 
 ![A.Translator Screenshot](A.Translator.PNG)
 
+---
+
 ## 🚀 Why I Built This
 
-I’m Aleem — a Python developer, prompt engineer, and data science student.  
-My goal is to build AI that can think, code, and design.  
-**A.Translator** was built to solve real-world language problems in document workflows and showcase what a solo developer can achieve with focus and passion.
+I’m **Muhammad Aleem**, known online as **Aleem.Developer** — a student, Python developer, and future AI founder.  
+My goal is to build powerful digital tools that simplify real-world problems — and **A.Translator** is the first step in that journey.
+
+This project combines my passion for:
+- 🔍 Natural language processing
+- 🧠 Prompt engineering
+- 🎨 GUI design
+- 🧑‍💻 Making AI feel like an assistant
+
+Inspired by the greats who started in garages, I’m building my career — one project at a time.
+
+---
 
 ## 👨‍💻 Technologies Used
 
@@ -28,16 +51,20 @@ My goal is to build AI that can think, code, and design.
 - pdfplumber
 - deep_translator
 - ttkbootstrap
-- docx
+- python-docx
 - threading
 - PyInstaller
 
+---
+
 ## 📥 Download
 
-Executable version (.exe) available on request or soon via GitHub Releases.  
-📩 Contact me via [LinkedIn](https://linkedin.com/in/aleem-developer) or email for access.
+Executable `.exe` version available on request or soon via GitHub Releases.  
+📩 Contact: [LinkedIn](https://linkedin.com/in/aleem-developer) | Email: aleem.developer@gmail.com
+
+---
 
 ## 🔖 License
 
-This project is licensed under MIT — free for personal and educational use.  
-Developed by **Aleem.Developer** – 2025
+Licensed under the MIT License — free for personal and educational use.  
+All rights reserved © 2025 — Developed with 💻 by **Aleem.Developer**
